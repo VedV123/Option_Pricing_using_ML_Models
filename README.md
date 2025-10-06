@@ -53,5 +53,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgments
 
-* Inspiration drawn from the research paper: `[Name of Paper and Link if Available]`
-* Dataset source: `[Name of Data Source, e.g., NSE, Kaggle]`
+* Inspiration drawn from the research paper: `Unlocking the black box: Non-parametric option pricing before and during COVID-19`
